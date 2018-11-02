@@ -15,8 +15,7 @@
             //Parent Components
         //----------------------------------------------------------------------------------------------------------
         
-        import signup from './components/signup.jsx'
-import create_account from './components/create account.jsx'
+        import premier_league from './components/premier league.jsx'
        
         //----------------------------------------------------------------------------------------------------------
         //Reducer
@@ -37,9 +36,8 @@ import create_account from './components/create account.jsx'
         
                 <Router basename="/" history={ history } >
                     <Switch>
-                        <Route path "/" component={signup}
-                        <Route path="/signup" component={signup} /> 
-,<Route path="/create_account" component={create_account} /> 
+                        <Route path "/" component={premier_league}
+                        <Route path="/premier_league" component={premier_league} /> 
 
                     </Switch>
                 </Router>
