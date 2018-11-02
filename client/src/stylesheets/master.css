@@ -21,59 +21,99 @@
     }
     
     
-                    status bar-white-black {
-                        background: rgb(250, 250, 250),
-                        color: rgb(22, 22, 22)
+                    status bar-block-very light peach {
+                        background: rgb(49, 5, 51),
+                        color: rgb(238, 215, 200)
                     }
                     
-                    navigation bar-white-black {
+                    navigation title label-block-light pink {
+                        background: rgb(48, 8, 51),
+                        color: rgb(242, 236, 242)
+                    }
+                    
+                    label-block-block {
+                        background: rgb(44, 13, 42),
+                        color: rgb(236, 229, 233)
+                    }
+                    
+                    label-light pink-block {
+                        background: rgb(236, 223, 236),
+                        color: rgb(35, 6, 36)
+                    }
+                    
+                    label-white-block {
                         background: rgb(251, 251, 251),
-                        color: rgb(23, 23, 23)
+                        color: rgb(24, 13, 25)
                     }
                     
-                    navigation title label-black-white {
+                    image-block-block {
+                        background: rgb(240, 236, 241),
+                        color: rgb(30, 31, 32)
+                    }
+                    
+                    label-lavender-block {
+                        background: rgb(238, 237, 241),
+                        color: rgb(29, 28, 30)
+                    }
+                    
+                    label-block-lavender {
+                        background: rgb(31, 30, 34),
+                        color: rgb(239, 238, 242)
+                    }
+                    
+                    label-white-block {
+                        background: rgb(251, 251, 251),
+                        color: rgb(23, 13, 24)
+                    }
+                    
+                    label-block-block {
+                        background: rgb(240, 236, 241),
+                        color: rgb(34, 40, 40)
+                    }
+                    
+                    label-block-block {
+                        background: rgb(19, 18, 20),
+                        color: rgb(239, 237, 241)
+                    }
+                    
+                    label-block-block {
+                        background: rgb(238, 236, 240),
+                        color: rgb(9, 8, 10)
+                    }
+                    
+                    label-block-block {
+                        background: rgb(26, 25, 26),
+                        color: rgb(239, 236, 241)
+                    }
+                    
+                    label-block-block {
+                        background: rgb(20, 19, 21),
+                        color: rgb(239, 237, 242)
+                    }
+                    
+                    label-white-black {
+                        background: rgb(249, 249, 249),
+                        color: rgb(28, 28, 28)
+                    }
+                    
+                    Table Row-white-block {
+                        background: rgb(251, 251, 251),
+                        color: rgb(30, 11, 32)
+                    }
+                    
+                    label-black-white {
+                        background: rgb(15, 15, 15),
+                        color: rgb(250, 250, 250)
+                    }
+                    
+                    label-black-white {
                         background: rgb(18, 18, 18),
-                        color: rgb(249, 249, 249)
+                        color: rgb(250, 250, 250)
                     }
                     
-                    image-white-gray {
-                        background: rgb(247, 247, 247),
-                        color: rgb(189, 189, 189)
-                    }
-                    
-                    input-white-black {
-                        background: rgb(232, 232, 232),
-                        color: rgb(47, 47, 47)
-                    }
-                    
-                    input-white-black {
-                        background: rgb(239, 239, 239),
-                        color: rgb(51, 51, 51)
-                    }
-                    
-                    input-black-white {
-                        background: rgb(54, 54, 54),
-                        color: rgb(242, 242, 242)
-                    }
-                    
-                    button-lavender blue-block {
-                        background: rgb(131, 76, 249),
-                        color: rgb(248, 231, 250)
-                    }
-                    
-                    button-lavender blue-block {
-                        background: rgb(131, 76, 249),
-                        color: rgb(248, 231, 250)
-                    }
-                    
-                    button-lavender blue-block {
-                        background: rgb(131, 76, 249),
-                        color: rgb(248, 231, 250)
-                    }
-                    
-                    button-lavender blue-block {
-                        background: rgb(131, 76, 249),
-                        color: rgb(248, 231, 250)
+                    button-block-light pink {
+                        background: rgb(36, 6, 39),
+                        color: rgb(208, 198, 208)
                     }
                     
     
